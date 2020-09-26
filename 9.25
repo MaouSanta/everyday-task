@@ -1,0 +1,17 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+int a, b;
+int h, m, s;
+
+int main()
+{
+	scanf("%d%d", &a, &b);
+	b -= a;
+	b = (double)b / 100 + 0.5;
+	h = b / 3600; b -= h * 3600;
+	m = b / 60;   b -= m * 60;
+	s = b / 1;
+	printf("%02d:%02d:%02d", h, m, s);
+	return 0;
+}
