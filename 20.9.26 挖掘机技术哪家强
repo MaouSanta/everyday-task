@@ -1,3 +1,5 @@
+//https://www.nowcoder.com/pat/6/problem/4058
+//使用数组下标代表学校编号，将学校编号相同的相加，找出最大值
 #include <bits/stdc++.h>
 using namespace std;
 
