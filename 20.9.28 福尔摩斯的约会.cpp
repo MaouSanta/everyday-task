@@ -1,5 +1,5 @@
-//福尔摩斯看了想骂人
-//有被恶心到
+//https://www.nowcoder.com/pat/6/problem/4040
+//(福尔摩斯看了想骂人)按题目要求模拟即可
 #include <iostream>
 using namespace std;
 
