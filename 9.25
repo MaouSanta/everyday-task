@@ -1,3 +1,5 @@
+//https://www.nowcoder.com/pat/6/problem/4052
+//printf里 %2d 控制输出两位向右对齐， %-2d 控制两位向左对齐，%+2d 控制两位含符号，%02d 控制两位补前缀0
 #include <bits/stdc++.h>
 using namespace std;
 
