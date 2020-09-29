@@ -1,4 +1,4 @@
-```cpp
+//https://www.nowcoder.com/pat/6/problem/4059
 #include<bits/stdc++.h>
 using namespace std;
 
@@ -27,4 +27,3 @@ int main()
 	for(it=mm.begin();it!=mm.end();it++) s2.erase(remove(s2.begin(),s2.end(),it->first),s2.end()); //函数remove(begin,end,c) 将字符串中值为 c 的 字符全部扔到末尾并返回更新后的尾指针，函数erase(begin,end)将末尾这些c全部删掉 
 	cout<<s2<<endl;
 } 
-```
