@@ -1,3 +1,5 @@
+//https://www.nowcoder.com/pat/6/problem/4059
+//输出时判断一下该字符是否可以打出，通过ascii码优化一下代码
 #include <iostream>
 #include <cstring>
 using namespace std;
