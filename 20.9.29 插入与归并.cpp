@@ -1,5 +1,5 @@
-//这道题出题人数据有问题 没啥参考价值
-//还是多看看模板
+//https://www.nowcoder.com/pat/6/problem/4061
+//这道题数据有问题 没啥参考价值 还是多看看模板
 #include <bits/stdc++.h>
 using namespace std;
 
