@@ -1,3 +1,5 @@
+//https://www.nowcoder.com/pat/6/problem/4058
+//将学校编号离散化，避免学校编号过大导致的数组越界
 #include <bits/stdc++.h>
 using namespace std;
 
