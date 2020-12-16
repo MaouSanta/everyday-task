@@ -1,5 +1,5 @@
 # everyday-task
-开学前每日一题和别的一些小题目都会放在这里  
-每道题会有题解便于理解代码  
 
-（点watch能收到更新提醒，点star鼓励代码贡献者，点fork可以提交自己的代码）
+各位寝室长点进 English 和 ProgrammingC 文件夹查看具体操作方式
+
+点watch能收到更新提醒，点star鼓励代码贡献者，点fork可以提交自己的代码
