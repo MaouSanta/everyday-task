@@ -1,0 +1,8 @@
+（1）13，39
+
+（2）2   3   5   7  11  13  17  19  23  29
+    31  37  41  43  47
+
+
+（3）wer12345678dfsABCDEFGHyydstuvwxyz-3
+（4）++i     --j   kz！=-1   line=reverse(line)
