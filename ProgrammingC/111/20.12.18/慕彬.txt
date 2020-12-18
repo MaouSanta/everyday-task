@@ -1,0 +1,12 @@
+1、
+23
+2、
+2,3,1
+3、
+5 10 1 22 6 -59 -11 -6 -6 4
+4、
+①change[i]>'A'&&change[i]<'Z'
+②str[i]>'A'&&str[i]<'Z'
+③str[i]=change[str[i]-'a']-'A'+'a'
+④ChangeString()
+5、

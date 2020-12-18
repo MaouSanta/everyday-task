@@ -1,0 +1,9 @@
+（1）23（abcd=10 7 4 19）
+（2）2，3，1
+（3）5 10 1 22 6 -59 -11 -6 -6 4
+
+（4）1.change[i]>='A'&&change[i]<='Z'
+2.str[i]>='A'&&str[i]<='Z'
+3.str[i]=change[str[i]-'a']
+4.ChangeSting()
+5.不会
