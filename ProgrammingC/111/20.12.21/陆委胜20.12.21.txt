@@ -1,0 +1,9 @@
+（1）223-6647-2011
+（2）4
+（3）70
+（4）
+cin>>b[i][j]
+m1-m2
+good=true
+m2
+haveAns=true
